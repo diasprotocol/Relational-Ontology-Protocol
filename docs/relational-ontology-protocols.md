@@ -1339,6 +1339,9 @@ These pages contain live, evolving schema fields, remix instructions, and embedd
 
 ---
 
+
+### Relational Map  
+Author and visual field definitions for cross-domain meaning transfer:  
 [Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
 
 
