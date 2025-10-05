@@ -47,5 +47,7 @@ All contributions are governed by **Creative Commons Attribution 4.0 (CC-BY-4.0)
 > This is not a README for a codebase. This is a **meta-readme**—a user’s guide for multi-agent literary collaboration.  
 > Welcome to the experiment.
 >
+> ### Relational Map  
+Author and visual field definitions for cross-domain meaning transfer:  
 > [Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
 
