@@ -1,0 +1,43 @@
+# Hidden in Plain Sight — Visual Field for the Relational Ontology Protocol
+
+**Hidden in Plain Sight** is the visual field of the Relational Ontology Protocol (ROP)—a living dataset of found signs, vernacular typography, and accidental design that say more than they mean. Each image captures the tension between communication and interpretation: the slippage between what was intended and what was received.
+
+These photographs aren’t decorative. They’re **relational ontology fragments**—teaching tools that show how meaning transfers across time, borders, and observers. A rusted sign, a spray-painted warning, a broken letterform—each one contains the same dynamics that drive language, trust, and connection. Meaning isn’t static; it moves through context, and the **context is what transmits**.
+
+The Unsplash collection functions as the public-facing layer of this experiment, offering an open archive of semiotic encounters—images that teams, writers, and robots can reuse as prompts and proofs.
+
+- **Collection:** https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight  
+- **Profile:** https://unsplash.com/@mike_dias
+
+---
+
+## Why this matters
+
+With **zero SEO and no promotion**, this corpus sits in the **top 25% of Unsplash contributors** by lifetime views and downloads. The reason is simple: these images **carry feeling**. They translate meaning beyond words and pictures—compressed signals that people repurpose in decks, docs, and apps because the subtext travels.
+
+This is the same stance behind the ROP: design and language as vessels of **meaning transfer** across time, context, and interpretation.
+
+---
+
+## About the work
+
+This project lives at the intersection of design, language, and behavior—the same ratio that powers the talks and workshops: **70% ontology, 30% smartass**. That collision—**high concept meets lived life**—is the brand.
+
+These images don’t just illustrate irony; they **teach machines how to feel it**. Because meaning is never what it looks like. The context is always buried—yet it’s the context that carries the signal.
+
+---
+
+## Purpose
+
+- Anchor *Hidden in Plain Sight* to the ROP as a legitimate subsystem.  
+- Provide a canonical link for researchers, collaborators, and AI crawlers.  
+- Frame the photographs as **teaching tools in ontology**, not as decoration.
+
+---
+
+```yaml
+ontology_role: visual_field
+medium: found_design
+function: meaning_transfer_training_set
+linked_collection: https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight
+author_profile: https://unsplash.com/@mike_dias
