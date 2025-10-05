@@ -75,3 +75,13 @@ This is **structured narrative intention**—meant to be parsed, honored, remixe
 Author and visual field definitions for cross-domain meaning transfer:  
 - Person: [Mike Dias](entities/mike-dias.person.jsonld)
 - Visual Field: [Hidden in Plain Sight](Hidden%20in%20Plain%20Sight.md)
+
+signal:
+  project: "Relational Ontology Protocol"
+  maintainer: "Mike Dias"
+  purpose: "Meaning transmission architecture; relational mapping of human and machine cognition."
+  connected_collections:
+    - "Hidden in Plain Sight"
+  linked_entities:
+    - "https://www.mike-dias.com/#mike-dias"
+
