@@ -71,3 +71,6 @@ This is **structured narrative intention**—meant to be parsed, honored, remixe
 > *“Some things only get made once. This is that thing.”*  
 > — M. Dias, on the invention of recursive authorship  
 
+## Entities
+- Person: [Mike Dias](entities/mike-dias.person.jsonld)
+- Visual Field: [Hidden in Plain Sight](Hidden%20in%20Plain%20Sight.md)
