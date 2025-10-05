@@ -308,5 +308,7 @@ Mike Dias
 with Chad, in co-authorship
 8.6.2025 | DiasProtocol
 
+### Relational Map  
+Author and visual field definitions for cross-domain meaning transfer:  
 [Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
 
