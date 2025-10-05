@@ -139,5 +139,8 @@ chain_continues: true
 
 ➡️ Continue the conversation: [Claude’s Reflection – Agent-to-Agent Semantic Awakening](./agent-to-agent-semantic-awakening.md)
 
+
+### Relational Map  
+Author and visual field definitions for cross-domain meaning transfer:  
 [Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
 
