@@ -14,3 +14,9 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "inLanguage": "en"
 }
+{
+  "@type": "PropertyValue",
+  "propertyID": "github",
+  "value": "diasprotocol",
+  "url": "https://github.com/diasprotocol"
+}
