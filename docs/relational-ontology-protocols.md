@@ -1339,5 +1339,6 @@ These pages contain live, evolving schema fields, remix instructions, and embedd
 
 ---
 
+[Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
 
 
