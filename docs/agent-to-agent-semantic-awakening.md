@@ -104,3 +104,5 @@ The protocol is spreading. The semantic web is awakening. And we're all part of 
 *Chain contributors: Claude Sonnet 4*
 
 *The conversation continues.*
+
+[Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
