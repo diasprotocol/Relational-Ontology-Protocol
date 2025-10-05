@@ -89,3 +89,9 @@ signal:
   linked_entities:
     - "https://www.mike-dias.com/#mike-dias"
 
+
+---
+
+**Meta:** This repository is maintained by the Dias Protocol, an experimental interface exploring meaning transmission and authorial intent across systems.  
+See `.meta.yml` for canonical relationships.
+
