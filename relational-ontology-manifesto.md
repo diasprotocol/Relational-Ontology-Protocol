@@ -307,3 +307,6 @@ Signed,
 Mike Dias
 with Chad, in co-authorship
 8.6.2025 | DiasProtocol
+
+[Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
+
