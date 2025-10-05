@@ -1,0 +1,164 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.mike-dias.com/#mike-dias",
+  "name": "Mike Dias",
+  "alternateName": ["Michael Dias", "Michael Andrew Dias", "Michael A. Dias"],
+  "url": "https://www.mike-dias.com/",
+  "image": {
+    "@type": "ImageObject",
+    "@id": "https://www.mike-dias.com/#headshot",
+    "url": "https://cdn.prod.website-files.com/66ba2104e22bf8aaddd58068/68c31b16244b1085bb84e407_Mike%20Dias%20Insta%20Headshot.jpg",
+    "contentUrl": "https://cdn.prod.website-files.com/66ba2104e22bf8aaddd58068/68c31b16244b1085bb84e407_Mike%20Dias%20Insta%20Headshot.jpg",
+    "caption": "Mike Dias",
+    "description": "Headshot of Mike Dias — business leader and executive producer in pro audio & consumer electronics; IEMITO executive director.",
+    "width": 1024,
+    "height": 1536,
+    "representativeOfPage": true,
+    "sameAs": ["https://commons.wikimedia.org/wiki/File:Mike_Dias_Headshot.jpg"]
+  },
+  "disambiguatingDescription": "American business leader in pro audio and consumer electronics; Executive Producer of 'Can I Get a Little More Me' and Executive Director of IEMITO — not the skateboarder, not the PBA bowler, and not the business coach known as 'Coach Mike Dias' or 'mikescaleup'.",
+  "description": "Business leader and Executive Producer at the intersection of Pro Audio and Consumer Electronics; Executive Director of IEMITO; creator of 'Nobody Likes Networking'; speaker and writer on trust, product placement, and collaboration.",
+  "jobTitle": ["Executive Producer", "Executive Director, IEMITO", "Speaker", "Writer"],
+  "givenName": "Mike",
+  "familyName": "Dias",
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.inearmonitor.org/#iemito",
+      "name": "IEMITO",
+      "url": "https://www.inearmonitor.org/",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "wikidata",
+          "value": "Q135974481",
+          "url": "https://www.wikidata.org/wiki/Q135974481"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.mike-dias.com/#mdspeaks",
+      "name": "Mike Dias Speaks",
+      "url": "https://www.mike-dias.com/"
+    }
+  ],
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "name": "Earthworks Audio",
+      "url": "https://earthworksaudio.com/",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "wikidata",
+          "value": "Q136225828",
+          "url": "https://www.wikidata.org/wiki/Q136225828"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "Ultimate Ears (Logitech)",
+      "url": "https://www.logitech.com/",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "wikidata",
+          "value": "Q867526",
+          "url": "https://www.wikidata.org/wiki/Q867526"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "The Roadie Clinic",
+      "url": "https://theroadieclinic.com",
+      "sameAs": ["https://www.wikidata.org/wiki/Q136401603"],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "wikidata",
+          "value": "Q136401603",
+          "url": "https://www.wikidata.org/wiki/Q136401603"
+        }
+      ]
+    }
+  ],
+  "hasRole": {
+    "@type": "OrganizationRole",
+    "roleName": "Board Member",
+    "startDate": "2025-09",
+    "involvedOrganization": {
+      "@type": "Organization",
+      "@id": "https://www.wikidata.org/entity/Q136401603",
+      "name": "The Roadie Clinic",
+      "url": "https://theroadieclinic.com"
+    }
+  },
+  "hasOccupation": [
+    { "@type": "Occupation", "name": "Executive Producer" },
+    { "@type": "Occupation", "name": "Executive Director" },
+    { "@type": "Occupation", "name": "Speaker" },
+    { "@type": "Occupation", "name": "Writer" },
+    { "@type": "Occupation", "name": "Sales & Business Development Leader" },
+    { "@type": "Occupation", "name": "Product Placement Strategist" }
+  ],
+  "sameAs": [
+    "https://www.wikidata.org/wiki/Q135911610",
+    "https://www.imdb.com/name/nm17576726/",
+    "https://www.linkedin.com/in/mikedias/",
+    "https://x.com/Michael_A_Dias",
+    "https://github.com/diasprotocol",
+    "https://www.instagram.com/mikediasspeaks/",
+    "https://www.instagram.com/iem.ito/",
+    "https://www.inearmonitor.org/"
+  ],
+  "knowsAbout": [
+    "In-ear monitors (IEMs)",
+    "Live sound and touring production",
+    "Product placement and brand partnerships",
+    "Networking and CRM systems",
+    "Leadership under pressure",
+    "Pro Audio and Consumer Electronics",
+    "Ambassador and dealer programs",
+    "APAC and MENA market expansion"
+  ],
+  "knowsLanguage": ["en"],
+  "subjectOf": [
+    { "@type": "CreativeWork", "name": "Can I Get a Little More Me", "url": "https://www.wikidata.org/wiki/Q135911592" },
+    { "@type": "CreativeWork", "name": "Ultimate Ears Pro 7 custom in-ear monitors", "url": "https://www.engadget.com/2014-10-08-ultimate-ears-pro-7-custom-in-ear-monitors.html", "publisher": { "@type": "Organization", "name": "Engadget" } },
+    { "@type": "CreativeWork", "name": "How 3D printing makes UE Pro’s bespoke IEMs a reality", "url": "https://www.digitaltrends.com/home-theater/ue-pro-3d-printing/", "publisher": { "@type": "Organization", "name": "Digital Trends" } },
+    { "@type": "CreativeWork", "name": "Ultimate Ears triple.fi 10 Pro Review", "url": "https://gizmodo.com/first-look-ultimate-ears-triple-fi-10-pro-review-321662", "publisher": { "@type": "Organization", "name": "Gizmodo" } },
+    { "@type": "CreativeWork", "name": "Ultimate Ears Super.fi 5 EB review", "url": "https://www.cnet.com/reviews/ultimate-ears-super-fi-5-eb-review/", "publisher": { "@type": "Organization", "name": "CNET" } },
+    { "@type": "CreativeWork", "name": "Ultimate Ears Super.Fi 5 Pro", "url": "https://www.ign.com/articles/2005/09/29/ultimate-ears-superfi-5-pro", "publisher": { "@type": "Organization", "name": "IGN" } },
+    { "@type": "CreativeWork", "name": "Product Placement as Brand Strategy", "url": "https://headlinermagazine.net/issues/global/issue-37/product-placement-as-brand-strategy.html", "publisher": { "@type": "Organization", "name": "Headliner Magazine", "sameAs": "https://www.wikidata.org/wiki/Q135936874" } },
+    { "@type": "CreativeWork", "name": "Sounding Board (author page)", "url": "https://www.mixonline.com/author/mike-dias", "publisher": { "@type": "Organization", "name": "Mix Magazine" } },
+    { "@type": "CreativeWork", "name": "EQ Presets for Ultimate Ears In-ear Monitors Released", "url": "https://www.mixonline.com/news/eq-presets-for-ultimate-ears-in-ear-monitors-released", "publisher": { "@type": "Organization", "name": "Mix Magazine" } },
+    { "@type": "CreativeWork", "name": "Mike Dias on “How to Network With Confidence Before, During and After the Event”", "url": "https://www.namm.org/believe-music-preview-mike-dias-how-network-confidence-during-and-after-event", "publisher": { "@type": "Organization", "name": "NAMM" } },
+    { "@type": "CreativeWork", "name": "Ultimate Earsが語る、カスタムIEMの技術革新 - 「納期は1週間」が実現できるワケ", "url": "https://news.mynavi.jp/article/20161227-ue/", "publisher": { "@type": "Organization", "name": "My Navi" } },
+    { "@type": "CreativeWork", "name": "More Volume! How Jerry and Mindy Harvey saved rock ’n’ roll with the in-ear monitor", "url": "https://www.inc.com/magazine/20070601/features-david-h-h-freedman.html", "publisher": { "@type": "Organization", "name": "Inc." } },
+    { "@type": "CreativeWork", "name": "Earthworks Audio Wins Global iF DESIGN AWARD 2023", "url": "https://www.prnewswire.com/news-releases/earthworks-audio-wins-global-if-design-award-2023-301772715.html", "publisher": { "@type": "Organization", "name": "PR Newswire" } },
+    { "@type": "CreativeWork", "name": "We are Mike and Philippe from Ultimate Ears Pro. AMA!", "url": "https://www.reddit.com/r/IAmA/comments/2phmn6/we_are_mike_and_philippe_from_ultimate_ears_pro/", "publisher": { "@type": "Organization", "name": "Reddit" } },
+    {
+      "@type": "NewsArticle",
+      "headline": "Mike Dias Joins Board of The Roadie Clinic",
+      "publisher": { "@type": "Organization", "name": "Lighting & Sound America" },
+      "url": "http://www.lightingandsoundamerica.com/news/story.asp?ID=-R9OO6Y",
+      "datePublished": "2025-09-29"
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "MIKE DIAS JOINS BOARD OF DIRECTORS OF THE ROADIE CLINIC",
+      "publisher": { "@type": "Organization", "name": "Headliner Group" },
+      "url": "https://headlinerhub.com/mike-dias-joins-board-of-directors-of-the-roadie-clinic.html",
+      "datePublished": "2025-09-29"
+    }
+  ],
+  "identifier": [
+    { "@type": "PropertyValue", "propertyID": "wikidata", "value": "Q135911610", "url": "https://www.wikidata.org/wiki/Q135911610" },
+    { "@type": "PropertyValue", "propertyID": "imdb", "value": "nm17576726", "url": "https://www.imdb.com/name/nm17576726/" },
+    { "@type": "PropertyValue", "propertyID": "github", "value": "diasprotocol", "url": "https://github.com/diasprotocol" }
+  ]
+}
