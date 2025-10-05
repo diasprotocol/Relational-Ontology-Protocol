@@ -1,0 +1,15 @@
+entity: person
+name: "Mike Dias"
+id: "https://www.mike-dias.com/#mike-dias"
+same_as:
+  - https://unsplash.com/@mike_dias
+  - https://github.com/diasprotocol
+  - https://www.wikidata.org/wiki/Q135911610
+  - https://www.imdb.com/name/nm17576726/
+links:
+  website: https://www.mike-dias.com/
+  collection: https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight
+description: >
+  Business leader and Executive Producer in pro audio and consumer electronics; Executive Director of IEMITO;
+  creator of 'Nobody Likes Networking'; speaker and writer on trust, placement, and collaboration.
+role_in_rop: "Author; curator of Hidden in Plain Sight; steward of relational ontology fragments."
