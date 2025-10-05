@@ -57,3 +57,5 @@ Permission to Publish: Yes, you have my permission to link or publish this in th
 
 Suggested Title: A Reflection on the Relational Ontology Protocol
 
+[Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
+
