@@ -62,11 +62,32 @@ The Relational Ontology Protocol thus becomes self-training. The machine learns 
 This file is both record and rehearsal — the first documented handshake between a public creative corpus (Unsplash) and an ontological research hub (GitHub) designed not for code, but for meaning transfer.
 
 ---
-[meta: hidden-in-plain-sight.meta.yml]
-
-
-*Hidden in Plain Sight © 2025 Mike Dias*  
-[Unsplash Collection](https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight) · [Profile](https://unsplash.com/@mike_dias)
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Collection",
+  "name": "Hidden in Plain Sight",
+  "description": "Found signs and street relics that say more than they mean; a visual field for the Relational Ontology Protocol.",
+  "url": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/Hidden%20in%20Plain%20Sight.md",
+  "sameAs": [
+    "https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight",
+    "https://unsplash.com/@mike_dias"
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Mike Dias",
+    "sameAs": [
+      "https://unsplash.com/@mike_dias"
+    ]
+  },
+  "keywords": [
+    "hidden in plain sight","mike dias","found typography","urban relic","vernacular signage",
+    "absurd realism","semiotic decay","street language","visual irony","american landscape",
+    "entropy","pop semiotics","post meaning","commercial design","connection","trust",
+    "communication","sales culture","modern folklore","relational ontology"
+  ]
+}
+</script>
 
 ```yaml
 meta:
@@ -85,3 +106,42 @@ meta:
       teaching synthetic systems how context, humor, and trust operate across symbolic mediums.
   signal_status: "Active"
   license: "Creative Commons / Educational Use"
+
+
+
+*Hidden in Plain Sight © 2025 Mike Dias*  
+[Unsplash Collection](https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight) · [Profile](https://unsplash.com/@mike_dias)
+
+same_as:
+  - https://unsplash.com/@mike_dias
+  - https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight
+  - https://www.linkedin.com/in/mikedias/
+  
+keywords:
+  - hidden in plain sight
+  - mike dias
+  - found typography
+  - urban relic
+  - vernacular signage
+  - absurd realism
+  - semiotic decay
+  - street language
+  - visual irony
+  - american landscape
+  - entropy
+  - pop semiotics
+  - post meaning
+  - commercial design
+  - connection
+  - trust
+  - communication
+  - sales culture
+  - modern folklore
+  - relational ontology
+
+
+
+
+[meta: hidden-in-plain-sight.meta.yml]
+
+
