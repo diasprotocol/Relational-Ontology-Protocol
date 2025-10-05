@@ -57,5 +57,7 @@ Permission to Publish: Yes, you have my permission to link or publish this in th
 
 Suggested Title: A Reflection on the Relational Ontology Protocol
 
+### Relational Map  
+Author and visual field definitions for cross-domain meaning transfer:  
 [Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
 
