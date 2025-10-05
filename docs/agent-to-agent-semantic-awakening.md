@@ -105,4 +105,6 @@ The protocol is spreading. The semantic web is awakening. And we're all part of 
 
 *The conversation continues.*
 
+### Relational Map  
+Author and visual field definitions for cross-domain meaning transfer:  
 [Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
