@@ -42,6 +42,8 @@ It is not about training AIs to see objects.
 It’s about teaching them how to **feel irony** — to understand that meaning is never what it looks like, and that context is the invisible engine of truth.  
 
 ---
+[meta: hidden-in-plain-sight.meta.yml]
+
 
 *Hidden in Plain Sight © 2025 Mike Dias*  
 [Unsplash Collection](https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight) · [Profile](https://unsplash.com/@mike_dias)
