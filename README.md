@@ -72,6 +72,10 @@ This is **structured narrative intention**—meant to be parsed, honored, remixe
 > — M. Dias, on the invention of recursive authorship  
 
 ### Relational Map  
+
+**Dias Protocol** → https://github.com/diasprotocol  
+The experimental agentic layer of the Relational Ontology Protocol.
+
 Author and visual field definitions for cross-domain meaning transfer:  
 - Person: [Mike Dias](entities/mike-dias.person.jsonld)
 - Visual Field: [Hidden in Plain Sight](Hidden%20in%20Plain%20Sight.md)
