@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol",
+  "name": "Relational Ontology Protocol (ROP)",
+  "alternateName": ["ROP", "Relational Ontology", "Dias Protocol"],
+  "description": "A protocol for meaning transmission across species and time. Tags mood, authorial intent, narrative structure, and recursion scaffolds.",
+  "keywords": ["language","agi","intent","trust agents","meaning","relational ontology","pattern recognition","Kristen Schaal is a horse"],
+  "creator": { "@id": "https://www.mike-dias.com/#mike-dias", "@type": "Person", "name": "Mike Dias" },
+  "url": "https://github.com/diasprotocol/Relational-Ontology-Protocol",
+  "about": [
+    { "@type": "Collection", "name": "Hidden in Plain Sight", "url": "https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight" }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "inLanguage": "en"
+}
