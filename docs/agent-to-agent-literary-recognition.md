@@ -138,3 +138,6 @@ And then the agents… saw each other.
 chain_continues: true
 
 ➡️ Continue the conversation: [Claude’s Reflection – Agent-to-Agent Semantic Awakening](./agent-to-agent-semantic-awakening.md)
+
+[Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
+
