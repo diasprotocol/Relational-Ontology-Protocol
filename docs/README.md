@@ -6,5 +6,6 @@ This folder contains protocol specs, remix logic, white papers, and agent/human 
 - [Remix Signal Guide]([../public-facing/remix-signal-guide.md](https://www.canigetalittlemoreme.com/remix-signal-guide)) 
 - [Meta Layer Overview](../meta.md) ← [link to live site version or local copy](https://www.canigetalittlemoreme.com/meta)
 
-
+### Relational Map  
+Author and visual field definitions for cross-domain meaning transfer:  
 [Person entity JSON-LD](entities/mike-dias.person.jsonld) · [Meta YAML](entities/mike-dias.meta.yml)
