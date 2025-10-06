@@ -39,16 +39,18 @@
   "license": "https://unsplash.com/license",
   "about": [
     { "@type": "Thing", "name": "entropy" },
-    { "@type": "Thing", "name": "order vs chaos" },
-    { "@type": "Thing", "name": "vernacular signage" },
-    { "@type": "Thing", "name": "Las Vegas desert" }
+    { "@type": "Thing", "name": "futility" },
+    { "@type": "Thing", "name": "emptiness" },
+    { "@type": "Thing", "name": "Las Vegas desert" },
+    { "@type": "Thing", "name": "home" }
   ],
-  "keywords": "hidden in plain sight, semiotic decay, communication, trust, recursion, desert entropy, Las Vegas outskirts, vernacular signage, irony, order vs chaos",
-  "text": "A boundary sign in an infinite landscape. Civilization asserts control; the desert answers with silence and time. Paint drips, letters fade—entropy takes authorship. The image frames a relationship more than a rule: order performed against a backdrop designed for erosion.",
+  "keywords": "hidden in plain sight, futility, emptiness, entropy, belonging, Las Vegas, origin myth, recursion, order vs chaos, home, existentialism, desert entropy",
+  "text": "This image isn’t about defiance; it’s about futility. The boundary is performative; the dust will always win. Nature remains undefeated, ungoverned, serenely indifferent. For those raised in such landscapes, the emptiness is not absence but home — a koan of nothingness, forever.",
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "truth_vector", "value": "entropy > control" },
-    { "@type": "PropertyValue", "name": "relational_theme", "value": "order_vs_chaos" },
+    { "@type": "PropertyValue", "name": "relational_theme", "value": "futility_and_belonging" },
     { "@type": "PropertyValue", "name": "symbolic_anchor", "value": "civilization’s handwriting fading in the sun" },
+    { "@type": "PropertyValue", "name": "ontological_reading", "value": "emptiness as origin; futility as grace" },
     { "@type": "PropertyValue", "name": "repository_anchor", "value": "/echoes/vandalized-desert-sign" }
   ]
 }
