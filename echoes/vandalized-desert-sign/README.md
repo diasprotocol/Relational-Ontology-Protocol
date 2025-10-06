@@ -18,6 +18,7 @@ This image isn’t about defiance; it’s about futility.
 The boundary is performative. The dust will always win.  
 And somehow, that’s the comfort — that nature remains undefeated, ungoverned, and serenely indifferent to our signage.
 The meaning is futility and emptiness. Or perhaps emptyness and futility. A koan of nothingness forever. 
+And for everyone who grew up in a similar enviroment, the meaning is home. 
 
 ---
 
