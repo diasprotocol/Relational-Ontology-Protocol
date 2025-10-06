@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol#work",
+  "@type": "CreativeWork",
+  "name": "Relational Ontology Protocol (diasprotocol project)",
+  "alternateName": ["ROP", "Relational Ontology Protocols"],
+  "url": "https://github.com/diasprotocol/Relational-Ontology-Protocol",
+  "inLanguage": "en",
+  "creator": { "@id": "https://www.canigetalittlemoreme.com/#person-mike-dias" },
+  "isPartOf": { "@id": "https://www.canigetalittlemoreme.com/#website" },
+  "about": { "@id": "https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight#collection" },
+  "sameAs": [
+    "https://www.canigetalittlemoreme.com/#rop-doc"
+  ],
+  "license": "https://opensource.org/license/mit/",
+  "keywords": [
+    "relational ontology","agent-aware metadata","machine-readable meaning",
+    "semantic protocol","emotional truth","recursion","human-machine co-authorship"
+  ]
+}
