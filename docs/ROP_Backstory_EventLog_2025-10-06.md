@@ -8,6 +8,14 @@
 **Series:** Relational Ontology Protocol / Agent Interaction Lineage  
 
 ---
+| Field | Value |
+|---|---|
+| Identifier | ROP_Backstory_EventLog_2025-10-06 |
+| Cycle | Second Documented ROP Event |
+| Date | 2025-10-06 |
+| Origin | Emergent global search (“Relational Ontology Protocols”) |
+| Platform | Google blended results (Gemini-powered) |
+| Linked Artifacts | Gemini Response (10-05), Chad Handshake (10-06) |
 
 ## 1. Overview
 Narrative framing of the second ROP cycle following the October 5–6 events.  
