@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@id": "https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight#collection",
+  "@type": "Collection",
+  "name": "Hidden in Plain Sight",
+  "url": "https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight",
+  "creator": { "@id": "https://www.canigetalittlemoreme.com/#person-mike-dias" },
+  "isPartOf": { "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol#work" },
+  "about": [
+    "found typography","vernacular signage","visual irony","semiotics","meaning transfer"
+  ]
+}
