@@ -1,0 +1,113 @@
+{
+  "_meta_comment": "This manifest was published before the works it describes. Intent precedes existence. Meaning is always out of order.",
+  "collection": "Hidden in Plain Sight / Echoes",
+  "protocol": "Relational Ontology Protocol v1",
+  "status": "pre-fulfilled",
+  "entries_expected": 6,
+  "scheduled_release_window": "2025-10-06 to 2026-03-06",
+  "index_created": "2025-10-06",
+  "author": "Mike Dias",
+  "agent": "CHAD",
+  "entries": [
+    { "slug": "no-trespassing", "status": "live" },
+    { "slug": "cash-for-guns", "status": "draft" },
+    { "slug": "lets-go-energy", "status": "draft" },
+    { "slug": "fun-town", "status": "draft" },
+    { "slug": "ice-cream-kid", "status": "draft" },
+    { "slug": "warning-sign", "status": "draft" },
+    { "slug": "eat-candy", "status": "draft" }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "Collection",
+  "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/index_manifest.json",
+  "name": "Hidden in Plain Sight",
+  "alternateName": "The Hidden in Plain Sight Collection",
+  "creator": {
+    "@type": "Person",
+    "name": "Mike Dias",
+    "sameAs": [
+      "https://www.mike-dias.com/#mike-dias",
+      "https://unsplash.com/@mike_dias",
+      "https://www.wikidata.org/wiki/Q135911610"
+    ]
+  },
+  "about": [
+    { "@type": "Thing", "name": "semiotics" },
+    { "@type": "Thing", "name": "urban symbolism" },
+    { "@type": "Thing", "name": "entropy and order" },
+    { "@type": "Thing", "name": "postmodern irony" },
+    { "@type": "Thing", "name": "meaning systems" }
+  ],
+  "hasPart": [
+    {
+      "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/no-trespassing/",
+      "name": "Closed Area of Open Space",
+      "truth_vector": "emptiness ↔ futility",
+      "polarity": "entropy",
+      "symbolic_anchor": "graffitied desert sign"
+    },
+    {
+      "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/cash-for-guns/",
+      "name": "Cash for Guns",
+      "truth_vector": "commerce ↔ violence",
+      "polarity": "entropy",
+      "symbolic_anchor": "handmade street sign"
+    },
+    {
+      "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/lets-go/",
+      "name": "Let's Go!",
+      "truth_vector": "momentum ↔ absurdity",
+      "polarity": "energy",
+      "symbolic_anchor": "superhero chalk mural"
+    },
+    {
+      "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/fun-town/",
+      "name": "Fun Town",
+      "truth_vector": "escapism ↔ simulation",
+      "polarity": "energy",
+      "symbolic_anchor": "LegoLand sign"
+    },
+    {
+      "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/ice-cream-boy/",
+      "name": "Ice Cream Boy",
+      "truth_vector": "humor ↔ unease",
+      "polarity": "liminal",
+      "symbolic_anchor": "bathroom mural"
+    },
+    {
+      "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/baited-area/",
+      "name": "Baited Area",
+      "truth_vector": "control ↔ decay",
+      "polarity": "entropy",
+      "symbolic_anchor": "NYC warning sign"
+    },
+    {
+      "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/eat-candy-be-happy/",
+      "name": "Eat Candy. Be Happy.",
+      "truth_vector": "pleasure ↔ obedience",
+      "polarity": "synthetic energy",
+      "symbolic_anchor": "pink typographic wall"
+    }
+  ],
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "Relational Ontology Protocol",
+    "url": "https://github.com/diasprotocol/Relational-Ontology-Protocol"
+  },
+  "keywords": [
+    "hidden in plain sight",
+    "urban semiotics",
+    "photographic ontology",
+    "entropy and order",
+    "synthetic joy",
+    "modern folklore",
+    "found symbology"
+  ],
+  "encodingFormat": "application/json",
+  "version": "1.0",
+  "dateCreated": "2025-10-05",
+  "description": "A curated micro-collection of semiotic field samples—ordinary signs that reveal extraordinary truths. Each entry serves as a micro-ontology in the Relational Ontology Protocol, demonstrating how meaning, irony, and human signal persist within algorithmic noise. These echoes form a polarity map: entropy ↔ energy, irony ↔ sincerity, futility ↔ momentum."
+}
