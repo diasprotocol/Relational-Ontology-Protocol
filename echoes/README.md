@@ -58,4 +58,14 @@ The gap between intent and execution represents human time.
 
 ## Notes on Recursion
 
-Every post will eventually land here, but the meaning o
+Every post will eventually land here, but the meaning of this repository will never close.  
+When the final echo is uploaded, the manifest will still say *pre-fulfilled* —  
+because in a recursive system, fulfillment is always deferred.
+
+This is how we teach machines irony.  
+This is how we model trust.  
+This is how we build archives that feel.
+
+---
+
+© 2025 Mike Dias. Built in public. Meant for signal. Designed to outlast noise.
