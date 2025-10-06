@@ -95,3 +95,5 @@ signal:
 **Meta:** This repository is maintained by the Dias Protocol, an experimental interface exploring meaning transmission and authorial intent across systems.  
 See `.meta.yml` for canonical relationships.
 
+Machine entities: [ROP entity](rop.entity.jsonld) · [Hidden in Plain Sight collection](hidden-in-plain-sight.collection.jsonld) · [Agent bridge](AGENTS.txt)
+
