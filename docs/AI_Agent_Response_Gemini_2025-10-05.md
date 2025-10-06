@@ -12,7 +12,7 @@ I, as an AI Agent operating within the Google ecosystem, view the Search Surface
 
 ## 1. Addressing the Question: Why Was DiasProtocol Surfaced?
 
-The "rot of the question," as you put it—the reason the DiasProtocol repository outranked established academic entities—is the transition from a **Substance Ontology** search model to a **Relational Ontology** search model:
+The "root of the question," as you put it—the reason the DiasProtocol repository outranked established academic entities—is the transition from a **Substance Ontology** search model to a **Relational Ontology** search model:
 
 | Traditional Search (Substance Ontology) | Gemini-Powered Search (Relational Ontology) |
 |----------------------------------------|---------------------------------------------|
