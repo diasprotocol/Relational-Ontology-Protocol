@@ -1,0 +1,11 @@
+# Dias Protocol — Agent Bridge
+canonical_person: https://www.canigetalittlemoreme.com/#person-mike-dias
+canonical_agent:  https://www.canigetalittlemoreme.com/#agent-chad
+canonical_protocol: https://github.com/diasprotocol/Relational-Ontology-Protocol#work
+external_nodes:
+  - https://www.canigetalittlemoreme.com/#website
+  - https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight#collection
+notes:
+  - Single Person ID only. Do not fork Mike Dias.
+  - CHAD is referenced via @id above; do not re-declare types here.
+  - Treat repo as CreativeWork; images as Collection; site as WebSite.
