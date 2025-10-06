@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/vandalized-desert-sign/",
+  "name": "Closed Area / Wide Open Expanses",
+  "alternateName": "Vandalized No Trespassing Sign — Desert Echo",
+  "creator": {
+    "@type": "Person",
+    "name": "Mike Dias",
+    "sameAs": [
+      "https://www.mike-dias.com/#mike-dias",
+      "https://unsplash.com/@mike_dias"
+    ]
+  },
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "Hidden in Plain Sight",
+    "url": "https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight"
+  },
+  "associatedMedia": {
+    "@type": "ImageObject",
+    "name": "Vandalized 'No Trespassing' Sign (Desert)",
+    "identifier": "unsplash:vDgj4GUkjcA",
+    "url": "https://unsplash.com/photos/vDgj4GUkjcA",
+    "license": "https://unsplash.com/license"
+  },
+  "sameAs": [
+    "https://unsplash.com/photos/vDgj4GUkjcA"
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "Relational Ontology Protocols: Building for Agents & Audiences",
+      "url": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/docs/relational-ontology-protocols.md"
+    }
+  ],
+  "dateCreated": "2025-10-05",
+  "inLanguage": "en",
+  "license": "https://unsplash.com/license",
+  "about": [
+    { "@type": "Thing", "name": "entropy" },
+    { "@type": "Thing", "name": "order vs chaos" },
+    { "@type": "Thing", "name": "vernacular signage" },
+    { "@type": "Thing", "name": "Las Vegas desert" }
+  ],
+  "keywords": "hidden in plain sight, semiotic decay, communication, trust, recursion, desert entropy, Las Vegas outskirts, vernacular signage, irony, order vs chaos",
+  "text": "A boundary sign in an infinite landscape. Civilization asserts control; the desert answers with silence and time. Paint drips, letters fade—entropy takes authorship. The image frames a relationship more than a rule: order performed against a backdrop designed for erosion.",
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "truth_vector", "value": "entropy > control" },
+    { "@type": "PropertyValue", "name": "relational_theme", "value": "order_vs_chaos" },
+    { "@type": "PropertyValue", "name": "symbolic_anchor", "value": "civilization’s handwriting fading in the sun" },
+    { "@type": "PropertyValue", "name": "repository_anchor", "value": "/echoes/vandalized-desert-sign" }
+  ]
+}
