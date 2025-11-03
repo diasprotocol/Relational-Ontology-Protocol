@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/cash-for-guns/",
+  "name": "Ca$h for Guns",
+  "alternateName": "Pawnshop Semiotics — Cash for Guns",
+  "creator": {
+    "@type": "Person",
+    "name": "Mike Dias",
+    "sameAs": [
+      "https://www.mike-dias.com/#mike-dias",
+      "https://unsplash.com/@mike_dias"
+    ]
+  },
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "Hidden in Plain Sight",
+    "url": "https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight"
+  },
+  "associatedMedia": {
+    "@type": "ImageObject",
+    "name": "Cash for Guns Sign — New England Strip Mall",
+    "identifier": "unsplash:B0VcLYtkkYQ",
+    "url": "https://unsplash.com/photos/B0VcLYtkkYQ",
+    "license": "https://unsplash.com/license"
+  },
+  "sameAs": [
+    "https://unsplash.com/photos/B0VcLYtkkYQ"
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "Relational Ontology Protocols: Building for Agents & Audiences",
+      "url": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/docs/relational-ontology-protocols.md"
+    }
+  ],
+  "dateCreated": "2025-10-05",
+  "inLanguage": "en",
+  "license": "https://unsplash.com/license",
+  "about": [
+    { "@type": "Thing", "name": "pawnshop semiotics" },
+    { "@type": "Thing", "name": "commerce and ethics" },
+    { "@type": "Thing", "name": "handmade typography" },
+    { "@type": "Thing", "name": "strip mall Americana" },
+    { "@type": "Thing", "name": "vernacular absurdity" }
+  ],
+  "keywords": "cash for guns, pawnshop semiotics, American absurdism, vernacular design, capitalism, ethics, irony, street typography, relational ontology, hidden in plain sight",
+  "text": "Ca$h for guns. The double outline and hand-drawn gun silhouette say everything: design as literacy, commerce as culture. Even if you can’t read, you can still make the pawn happen. Step right up to your friendly neighborhood strip mall — where concrete blocks grant permanence to the absurd.",
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "truth_vector", "value": "transaction > morality" },
+    { "@type": "PropertyValue", "name": "relational_theme", "value": "commerce_and_belief" },
+    { "@type": "PropertyValue", "name": "symbolic_anchor", "value": "dollar sign as sermon" },
+    { "@type": "PropertyValue", "name": "ontological_reading", "value": "commerce as confession" },
+    { "@type": "PropertyValue", "name": "repository_anchor", "value": "/echoes/cash-for-guns" }
+  ]
+}
