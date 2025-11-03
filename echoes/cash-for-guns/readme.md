@@ -1,9 +1,9 @@
   # Ca$h for Guns
 
-![Cash for Guns sign](https://unsplash.com/photos/B0VcLYtkkYQ)
-https://unsplash.com/photos/B0VcLYtkkYQ
 America the Beautiful!  
 Ca$h for guns.
+
+https://unsplash.com/photos/B0VcLYtkkYQ
 
 The double outline and hand-drawn gun silhouette say everything: design as literacy, commerce as culture. Even if you can’t read, you can still make the pawn happen.  
 
