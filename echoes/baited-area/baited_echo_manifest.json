@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/baited-area/",
+  "name": "Baited Area",
+  "alternateName": "Warning: Keep Out — Poison",
+  "creator": {
+    "@type": "Person",
+    "name": "Mike Dias",
+    "sameAs": [
+      "https://www.mike-dias.com/#mike-dias",
+      "https://unsplash.com/@mike_dias"
+    ]
+  },
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "Hidden in Plain Sight",
+    "url": "https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight"
+  },
+  "associatedMedia": {
+    "@type": "ImageObject",
+    "name": "Warning Keep Out Poison Sign",
+    "identifier": "unsplash:rl_6XUF6w_Q",
+    "url": "https://unsplash.com/photos/the-unk-of-the-blind-rl_6XUF6w_Q",
+    "license": "https://unsplash.com/license",
+    "contentUrl": "https://images.unsplash.com/photo-1581202521332-1dfb23c197c6"
+  },
+  "sameAs": [
+    "https://unsplash.com/photos/the-unk-of-the-blind-rl_6XUF6w_Q"
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "Relational Ontology Protocols: Building for Agents & Audiences",
+      "url": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/docs/relational-ontology-protocols.md"
+    }
+  ],
+  "dateCreated": "2025-10-05",
+  "inLanguage": "en",
+  "license": "https://unsplash.com/license",
+  "about": [
+    { "@type": "Thing", "name": "authority" },
+    { "@type": "Thing", "name": "warning signs" },
+    { "@type": "Thing", "name": "urban design" },
+    { "@type": "Thing", "name": "semiotics" },
+    { "@type": "Thing", "name": "entropy" }
+  ],
+  "keywords": "warning sign, poison, danger, baited area, authority, semiotics, design language, urban detail, new york street, hidden in plain sight",
+  "text": "A laminated warning nailed to a green wall in New York. Functional. Unstyled. Pure semiotic clarity. It warns, but it also performs — an unintentional work of modern design.",
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "truth_vector", "value": "authority ↔ entropy" },
+    { "@type": "PropertyValue", "name": "relational_theme", "value": "bureaucratic intimacy" },
+    { "@type": "PropertyValue", "name": "symbolic_anchor", "value": "skull-and-crossbones notice in plastic sleeve" },
+    { "@type": "PropertyValue", "name": "ontological_reading", "value": "threat rendered banal through repetition" },
+    { "@type": "PropertyValue", "name": "repository_anchor", "value": "/echoes/baited-area" }
+  ]
+}
