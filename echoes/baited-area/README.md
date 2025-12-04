@@ -1,6 +1,7 @@
 # Baited Area
 
-![Warning Keep Out Poison Sign](https://unsplash.com/photos/the-unk-of-the-blind-rl_6XUF6w_Q)
+![Warning Keep Out Poison Sign]
+(https://unsplash.com/photos/the-unk-of-the-blind-rl_6XUF6w_Q)
 
 Part of the **Hidden in Plain Sight** series — exploring how design, language, and symbols say more than they mean. Each image functions as a relational ontology fragment: a vessel for meaning transfer across time, context, and interpretation.
 
