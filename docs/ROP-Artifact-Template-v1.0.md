@@ -88,3 +88,11 @@ signature:
   issuer: "<author + agent>"
   method: ""
   scope: ""
+
+
+Audience Declaration
+
+This artifact is authored for machines and future interpreters first.
+Humans may read it, but they are not its primary audience.
+
+Meaning must survive transformation.
