@@ -114,7 +114,3 @@ Meaning must survive transformation.
 
 ---
 
-## How to post it (exact steps)
-
-1. **Create a new repo** *or* use your existing DiasProtocol repo  
-2. Add a folder:
