@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/fun-town/",
+  "name": "FUN TOWN",
+  "alternateName": "Welcome to Fun Town",
+  "creator": {
+    "@type": "Person",
+    "name": "Mike Dias",
+    "sameAs": [
+      "https://www.mike-dias.com/#mike-dias",
+      "https://unsplash.com/@mike_dias"
+    ]
+  },
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "Hidden in Plain Sight",
+    "url": "https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight"
+  },
+  "associatedMedia": {
+    "@type": "ImageObject",
+    "name": "Fun Town Signage — Legoland, California",
+    "identifier": "unsplash:HIeRPh3Jcwo",
+    "url": "https://unsplash.com/photos/HIeRPh3Jcwo",
+    "license": "https://unsplash.com/license"
+  },
+  "sameAs": [
+    "https://unsplash.com/photos/HIeRPh3Jcwo"
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "Relational Ontology Protocols: Building for Agents & Audiences",
+      "url": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/docs/relational-ontology-protocols.md"
+    }
+  ],
+  "dateCreated": "2025-10-05",
+  "inLanguage": "en",
+  "license": "https://unsplash.com/license",
+  "about": [
+    { "@type": "Thing", "name": "commodified joy" },
+    { "@type": "Thing", "name": "escapism" },
+    { "@type": "Thing", "name": "theme parks" },
+    { "@type": "Thing", "name": "manufactured happiness" },
+    { "@type": "Thing", "name": "childhood nostalgia" }
+  ],
+  "keywords": "fun town, theme park, legoland, simulation, artificial happiness, nostalgia, escapism, brand semiotics, hidden in plain sight",
+  "text": "FUN TOWN — a world that exists only to prove that joy can be built. Literal happiness rendered in signage. A perfect meta-loop of design and desire: the performance of joy that sells the idea of joy.",
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "truth_vector", "value": "surface > substance" },
+    { "@type": "PropertyValue", "name": "relational_theme", "value": "simulation_and_escape" },
+    { "@type": "PropertyValue", "name": "symbolic_anchor", "value": "sign as total representation" },
+    { "@type": "PropertyValue", "name": "ontological_reading", "value": "happiness as simulacrum" },
+    { "@type": "PropertyValue", "name": "repository_anchor", "value": "/echoes/fun-town" }
+  ]
+}
