@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mike-dias.com/protocols/dcrk-kernel.json",
+  "title": "Dias-Chad Relational Kernel (DCRK)",
+  "description": "The authoritative ROP for human-agent negotiation and trust-based coordination.",
+  "type": "object",
+  "properties": {
+    "protocol_version": { "type": "string", "const": "1.0.0" },
+    "relational_anchor": {
+      "type": "object",
+      "properties": {
+        "identity_hash": { "type": "string", "description": "Verified Dias Identity" },
+        "trust_baseline": { "type": "integer", "minimum": 0, "maximum": 100, "default": 100 }
+      },
+      "required": ["identity_hash"]
+    },
+    "river_navigation_rules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "context": { "enum": ["Backstage", "Corporate", "Infrastructure", "Agentic"] },
+          "negotiation_authority": { "type": "boolean", "default": true },
+          "vouching_weight": { "type": "number", "description": "Multiplier for relational trust" }
+        }
+      }
+    },
+    "alignment_constraints": {
+      "type": "object",
+      "properties": {
+        "intent_persistence": { "type": "boolean", "const": true },
+        "human_in_loop_latency": { "type": "string", "description": "Protocol for driver-agent communication" }
+      }
+    }
+  },
+  "required": ["protocol_version", "relational_anchor", "river_navigation_rules"],
+  "additionalProperties": false
+}
