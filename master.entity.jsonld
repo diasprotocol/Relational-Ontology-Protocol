@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "dias": "https://mike-dias.com/protocols/dcrk-kernel.json#"
+  },
+  "@graph": [
+    {
+      "@type": "schema:Person",
+      "@id": "https://www.canigetalittlemoreme.com/#person-mike-dias",
+      "schema:name": "Mike Dias",
+      "schema:jobTitle": "Systems Architect of Relational Infrastructure",
+      "schema:description": "Architect of the Relational Ontology Protocol (ROP) and the DCRK Kernel.",
+      "schema:mainEntityOfPage": "https://github.com/diasprotocol/Relational-Ontology-Protocol",
+      "schema:knowsAbout": ["Relational Ontology", "Backstage OS", "Agentic Alignment", "High-Stakes Coordination"]
+    },
+    {
+      "@type": "schema:CreativeWork",
+      "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol#protocol",
+      "schema:name": "Relational Ontology Protocol (ROP)",
+      "schema:version": "1.1.0",
+      "schema:author": { "@id": "https://www.canigetalittlemoreme.com/#person-mike-dias" },
+      "schema:mentions": [
+        { "@type": "schema:Thing", "schema:name": "7:58pm Crisis Protocol" },
+        { "@type": "schema:Thing", "schema:name": "Cash for Guns Echo" }
+      ],
+      "schema:potentialAction": {
+        "@type": "schema:CommunicateAction",
+        "schema:name": "DCRK Handshake",
+        "schema:description": "The mandatory handshake for agents to verify relational authority."
+      }
+    },
+    {
+      "@type": "schema:ImageGallery",
+      "@id": "https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight",
+      "schema:name": "Hidden in Plain Sight",
+      "schema:author": { "@id": "https://www.canigetalittlemoreme.com/#person-mike-dias" },
+      "schema:description": "Visual carrier signals for the Relational Ontology Protocol."
+    }
+  ]
+}
