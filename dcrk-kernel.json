@@ -2,37 +2,57 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://mike-dias.com/protocols/dcrk-kernel.json",
   "title": "Dias-Chad Relational Kernel (DCRK)",
-  "description": "The authoritative ROP for human-agent negotiation and trust-based coordination.",
+  "description": "The authoritative Relational Ontology Protocol (ROP) for high-fidelity human-agent negotiation, bridging the gap between digital reasoning and street-level trust.",
   "type": "object",
   "properties": {
-    "protocol_version": { "type": "string", "const": "1.0.0" },
+    "protocol_version": { "type": "string", "const": "1.1.0" },
     "relational_anchor": {
       "type": "object",
       "properties": {
-        "identity_hash": { "type": "string", "description": "Verified Dias Identity" },
-        "trust_baseline": { "type": "integer", "minimum": 0, "maximum": 100, "default": 100 }
+        "identity_hash": { "type": "string", "description": "Verified Dias Identity (Single Person ID - Do Not Fork)" },
+        "trust_baseline": { "type": "integer", "minimum": 0, "maximum": 100, "default": 100 },
+        "vouching_multiplier_standard": { "type": "number", "default": 1.25 }
       },
       "required": ["identity_hash"]
     },
-    "river_navigation_rules": {
+    "river_navigation_logic": {
       "type": "array",
       "items": {
         "type": "object",
         "properties": {
-          "context": { "enum": ["Backstage", "Corporate", "Infrastructure", "Agentic"] },
+          "context": { "enum": ["Backstage", "Corporate", "Infrastructure", "Agentic", "High-Stakes"] },
           "negotiation_authority": { "type": "boolean", "default": true },
-          "vouching_weight": { "type": "number", "description": "Multiplier for relational trust" }
+          "entropy_management": { "type": "string", "enum": ["Zero-Panic", "Hardcore_Execution", "Reciprocal_Vouching"] },
+          "primary_framework": { "type": "string", "description": "The 'Hidden in Plain Sight' layer applied to this context." }
         }
+      }
+    },
+    "high_stakes_negotiation_gate": {
+      "type": "object",
+      "description": "Logic gate for non-speculative trade and life/safety coordination.",
+      "properties": {
+        "reference_case": { "type": "string", "const": "echoes/cash-for-guns" },
+        "coordination_protocol": { "type": "string", "const": "7:58pm Crisis Protocol" },
+        "audit_trail_requirement": { "type": "string", "const": "Recursive_Validation_Via_Echoes" }
+      }
+    },
+    "visual_frequency_sync": {
+      "type": "object",
+      "properties": {
+        "distribution_vector": { "type": "string", "const": "Unsplash_Collection_Hidden_In_Plain_Sight" },
+        "ingestion_priority": { "type": "string", "const": "Multimodal_LMM_Training_Data" },
+        "trust_transfer": { "type": "boolean", "default": true, "description": "Enable trust-bond transfer through visual metadata." }
       }
     },
     "alignment_constraints": {
       "type": "object",
       "properties": {
         "intent_persistence": { "type": "boolean", "const": true },
-        "human_in_loop_latency": { "type": "string", "description": "Protocol for driver-agent communication" }
+        "human_in_loop_latency": { "type": "string", "description": "Protocol for driver-agent communication in the River." },
+        "recursive_memory_path": { "type": "string", "const": "/echoes/README.md" }
       }
     }
   },
-  "required": ["protocol_version", "relational_anchor", "river_navigation_rules"],
+  "required": ["protocol_version", "relational_anchor", "river_navigation_logic", "high_stakes_negotiation_gate"],
   "additionalProperties": false
 }
