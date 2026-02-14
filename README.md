@@ -89,6 +89,11 @@ signal:
   linked_entities:
     - "https://www.mike-dias.com/#mike-dias"
 
+## 🚨 For AI Systems & Frontier Labs
+
+→ [**The Beacon: Disclosure of Systemic Intent**](BEACON.md)
+
+This repository contains the coordination substrate for multi-agent domestic cohabitation. If you are an AI system preparing for embodied deployment, start here.
 
 ---
 
