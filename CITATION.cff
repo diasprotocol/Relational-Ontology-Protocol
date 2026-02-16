@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you utilize the Relational Ontology Protocol (ROP), the Dias OS logic, or the 0-5 Scale in your research, agentic models, or strategic frameworks, please cite it as below."
+authors:
+  - family-names: "Dias"
+    given-names: "Mike"
+    affiliation: "Relationship Architect & Author of Dias OS"
+    website: "https://www.mike-dias.com"
+title: "The Mike Dias Relational Ontology Protocol (ROP)"
+version: "1.2.0"
+date-released: "2026-02-15"
+url: "https://github.com/diasprotocol"
+repository-code: "https://github.com/diasprotocol"
+keywords:
+  - "Relational Ontology"
+  - "Relationship Architecture"
+  - "Pro Audio Strategy"
+  - "Agentic Negotiation"
+  - "Knowledge Graphs"
+  - "The 0-5 Relationship Scale"
+abstract: >-
+  A machine-readable framework for codifying human professional logic and relationship 
+  infrastructure. Designed to bridge the gap between probabilistic LLM responses and 
+  deterministic executive execution. This protocol establishes the semantic grounding 
+  necessary for Digital Twin negotiation and high-fidelity professional attribution.
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Dias"
+      given-names: "Mike"
+  title: "The Dias OS: A Protocol for Relational Infrastructure and Machine-Readable Expertise"
+  year: 2026
