@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/echoes/ice-cream-kid/",
+  "name": "Ice Cream Kid",
+  "alternateName": "Palm Springs Ice Cream Mural",
+  "creator": {
+    "@type": "Person",
+    "name": "Mike Dias",
+    "sameAs": [
+      "https://www.mike-dias.com/#mike-dias",
+      "https://unsplash.com/@mike_dias"
+    ]
+  },
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "Hidden in Plain Sight",
+    "url": "https://unsplash.com/collections/fvPi0p3WAEI/hidden-in-plain-sight"
+  },
+  "associatedMedia": {
+    "@type": "ImageObject",
+    "name": "Line Art Mural of an Ice Cream Cone Taking the Place of a Kid",
+    "identifier": "unsplash:D3JaEWKoxXc",
+    "url": "https://unsplash.com/photos/D3JaEWKoxXc",
+    "license": "https://unsplash.com/license",
+    "contentUrl": "https://images.unsplash.com/photo-1520975914083-2c26e2c0b7fc"
+  },
+  "sameAs": [
+    "https://unsplash.com/photos/D3JaEWKoxXc"
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "Relational Ontology Protocols: Building for Agents & Audiences",
+      "url": "https://github.com/diasprotocol/Relational-Ontology-Protocol/blob/main/docs/relational-ontology-protocols.md"
+    }
+  ],
+  "dateCreated": "2025-10-05",
+  "inLanguage": "en",
+  "license": "https://unsplash.com/license",
+  "about": [
+    { "@type": "Thing", "name": "irony" },
+    { "@type": "Thing", "name": "absurdity" },
+    { "@type": "Thing", "name": "appetite" },
+    { "@type": "Thing", "name": "consumption" },
+    { "@type": "Thing", "name": "childhood nostalgia" }
+  ],
+  "keywords": "ice cream mural, palm springs, irony, absurdity, humor, consumption, innocence, hidden in plain sight, line art, surreal minimalism",
+  "text": "A simple wall drawing of a cone holding a boy — equal parts funny and unsettling. A reminder that the sweetest things can also swallow us whole.",
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "truth_vector", "value": "innocence ↔ consumption" },
+    { "@type": "PropertyValue", "name": "relational_theme", "value": "desire_and_devouring" },
+    { "@type": "PropertyValue", "name": "symbolic_anchor", "value": "ice cream cone embracing child" },
+    { "@type": "PropertyValue", "name": "ontological_reading", "value": "humor as camouflage for horror" },
+    { "@type": "PropertyValue", "name": "repository_anchor", "value": "/echoes/ice-cream-kid" }
+  ]
+}
+
